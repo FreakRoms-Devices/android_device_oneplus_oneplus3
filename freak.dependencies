@@ -25,12 +25,12 @@
    "branch"     : "n7x-caf"
  },
  {
-   "repository" : "FreakRoms-Devices/android_vendor_qcom_binaries",
+   "repository" : "FreakRoms-Devices/proprietary_vendor_qcom_binaries",
    "target_path": "vendor/qcom/binaries",
    "branch"     : "cm-14.1"
  },
  {
-   "repository" : "FreakRoms-Devices/android_vendor_oneplus",
+   "repository" : "FreakRoms-Devices/proprietary_vendor_oneplus",
    "target_path": "vendor/oneplus",
    "branch"     : "cm-14.1"
  }
