@@ -25,11 +25,6 @@
    "branch"     : "n7x-caf"
  },
  {
-   "repository" : "FreakRoms-Devices/android_system_qcom",
-   "target_path": "system/qcom",
-   "branch"     : "n7x-caf"
- },
- {
    "repository" : "FreakRoms-Devices/android_external_ant-wireless_ant_service",
    "target_path": "external/ant-wireless/ant_service",
    "branch"     : "n7x-caf"
