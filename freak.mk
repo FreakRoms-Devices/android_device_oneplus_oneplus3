@@ -23,7 +23,7 @@ $(call inherit-product, device/oneplus/oneplus3/device.mk)
 # Inherit some common DU stuff.
 $(call inherit-product, vendor/freak/common.mk)
 
-PRODUCT_NAME := aosp_oneplus3
+PRODUCT_NAME := freak_oneplus3
 PRODUCT_DEVICE := oneplus3
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
